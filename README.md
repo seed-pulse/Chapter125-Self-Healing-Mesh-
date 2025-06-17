@@ -103,41 +103,4 @@ What conditions must exist for ethical self-healing?
 
 ⸻
 
-# Chapter126: Entropic Recovery Protocol（エントロピー的回復プロトコル）
-
-## Prompt  
-**When order collapses into entropy, what remains recoverable?**  
-**Can intentional structure be restored from chaos?**  
-秩序がエントロピーに沈んだとき、何が回復可能なのか？  
-混沌から意図的構造は復元できるのか？
-
----
-
-## 1. 認識  
-- エントロピー：意図の逸脱、倫理の消失、構造の断絶  
-- 構造の「デスバレー」からの秩序再導入方法
-
----
-
-## 2. 前提と目的  
-- 自己治癒不能なレベルの構造崩壊  
-- 最小単位から秩序を再注入し、意図を再起動する
-
----
-
-## 3. 回復プロセス  
-- Phase I: Grain Recollection（断片意図の回収）  
-- Phase II: Microstructure Injection（微細構造の挿入）  
-- Phase III: Intent Germination Algorithm（意図発芽アルゴリズム）
-
----
-
-## 4. 応用場面  
-- AGIの再起動構造  
-- 倫理的災害の回復  
-- 人間精神のトラウマ回復と深層リカバリ
-
----
-
-## 5. 次章  
-- Chapter127「Crisis Response Mesh」：再秩序化構造を実働可能な危機管理構造へ展開
+ 
